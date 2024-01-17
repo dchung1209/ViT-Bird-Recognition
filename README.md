@@ -7,7 +7,8 @@ A dataset comprising 20 distinct bird species includes 3,208 training images and
 
 
 ### Test Distribution
-![image](https://github.com/dchung1209/ViT-Bird-Recognition/assets/121478848/c3860a44-acec-49f1-833c-4dde565282cd)
+![image](https://github.com/dchung1209/ViT-Bird-Recognition/assets/121478848/d32ac3a8-85e3-4c3c-b8c0-06248a8f6f3c)
+
 
 
 ## ViT from Scratch
