@@ -1,4 +1,6 @@
+# Bird Species Recognition
 
+There are total 20 species in the dataset
 
 ## ViT from Scratch
 <img src="https://github.com/dchung1209/ViT-Bird-Recognition/assets/121478848/5e48e44e-dbcc-416c-8898-3aba331a82ce" width="700">
@@ -10,7 +12,7 @@ The overall structure of the model is derived from [An Image is Worth 16x16 Word
 
 The hyperparameters of the model adhere to **ViT-Base**
 
-### Result (epoch 300)
+### Result
 
 | Precision | Recall | F1-Score | Accuracy |
 | --------- | ------ | -------- | -------- |
@@ -22,9 +24,9 @@ The hyperparameters of the model adhere to **ViT-Base**
 
 [DinoV2](https://ai.meta.com/blog/dino-v2-computer-vision-self-supervised-learning/) is a recent state-of-the-art vision transform model developed by Meta AI.
 
-For the fair comparison, the model using 86M parameters is used
+To ensure a fair comparison, the employed model shares the same embedding dimension and maintains a similar parameter size of 82 million.
 
-### Result (epoch 40)
+### Result 
 
 | Precision | Recall | F1-Score | Accuracy |
 | --------- | ------ | -------- | -------- |
