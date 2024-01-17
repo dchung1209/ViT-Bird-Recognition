@@ -1,0 +1,12 @@
+{
+    "model" : "ViT",
+
+    "optimizer" : {
+        "type": "Adam",
+        "lr": 0.000001,
+    },
+
+    "loss" : "CrossEntropyLoss",
+
+    "epoch" : 300
+}
