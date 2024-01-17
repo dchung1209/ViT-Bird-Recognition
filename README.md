@@ -1,6 +1,13 @@
 # Bird Species Recognition
 
-There are total 20 species in the dataset
+A dataset comprising 20 distinct bird species includes 3,208 training images and 100 test images (with 5 images per species). All the images are in JPG format, with dimensions of 224 x 224 x 3, representing color images.
+
+### Train Distribution
+![image](https://github.com/dchung1209/ViT-Bird-Recognition/assets/121478848/3e10d459-a026-4373-a508-78b07300ded3)
+
+### Test Distribution
+![image](https://github.com/dchung1209/ViT-Bird-Recognition/assets/121478848/bac9484e-768a-4337-8371-79fcfc524869)
+
 
 ## ViT from Scratch
 <img src="https://github.com/dchung1209/ViT-Bird-Recognition/assets/121478848/5e48e44e-dbcc-416c-8898-3aba331a82ce" width="700">
